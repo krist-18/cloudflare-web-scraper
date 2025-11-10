@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://example.com",
+    "js_script": "(() => document.title.length)()"
+  },
+  {
+    "url": "https://httpbin.org/html",
+    "js_script": "(() => document.querySelectorAll('p').length)()"
+  }
+]
